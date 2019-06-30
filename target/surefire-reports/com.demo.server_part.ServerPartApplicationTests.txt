@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.server_part.ServerPartApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.095 s <<< FAILURE! - in com.demo.server_part.ServerPartApplicationTests
+initializationError(com.demo.server_part.ServerPartApplicationTests)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+Caused by: java.lang.IllegalStateException: SpringJUnit4ClassRunner requires JUnit 4.12 or higher.
+
